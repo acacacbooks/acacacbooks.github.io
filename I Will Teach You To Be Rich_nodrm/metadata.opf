@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">c43368be-df6f-483e-8e02-a155d1830512</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a017ba4c-65d9-4989-9c37-f6a8351fb584</dc:identifier>
+        <dc:title>I Will Teach You To Be Rich</dc:title>
+        <dc:creator opf:file-as="Sethi, Ramit" opf:role="aut">Ramit Sethi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-23T04:00:00+00:00</dc:date>
+        <dc:publisher>Workman Publishing Company</dc:publisher>
+        <dc:rights>All rights reserved</dc:rights>
+        <dc:language>en</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

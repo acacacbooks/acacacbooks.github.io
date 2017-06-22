@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">ae928f14-83d4-4a45-9e51-0029dad0d5fe</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6752b5c7-9489-4126-912a-5a90e10b3ce5</dc:identifier>
+        <dc:title>Body by Science: A Research Based Program to Get the Results You Want in 12 Minutes a Week</dc:title>
+        <dc:creator opf:file-as="Little, John R." opf:role="aut">John R. Little</dc:creator>
+        <dc:creator opf:file-as="Little, John R." opf:role="aut">Doug McGuff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-17T05:00:00+00:00</dc:date>
+        <dc:publisher>McGraw-Hill Education</dc:publisher>
+        <dc:rights>All rights reserved</dc:rights>
+        <dc:language>en</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

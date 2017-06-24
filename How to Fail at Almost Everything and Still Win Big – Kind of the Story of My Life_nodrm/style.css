@@ -1,0 +1,710 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
+.block {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-right: 1em;
+    margin-top: 0.5em;
+    padding-left: 3em
+    }
+.block1 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em
+    }
+.brandcontainer {
+    display: block;
+    height: 40%;
+    margin-top: 50%;
+    text-align: center;
+    width: 100%
+    }
+.brandingheadclosednum {
+    -webkit-hyphens: none;
+    display: block;
+    font-size: 1.41667em;
+    font-variant: small-caps;
+    font-weight: normal;
+    hyphens: none;
+    letter-spacing: 0.1em;
+    line-height: 1.3em;
+    margin-bottom: 0.45em;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 4%;
+    page-break-after: avoid;
+    page-break-before: always;
+    text-align: center;
+    text-transform: lowercase
+    }
+.brandingheadclosedtitle {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 3em;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0.5em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.brandlogo {
+    height: 60%;
+    width: auto
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    text-decoration: none
+    }
+.calibre2 {
+    height: 273px;
+    width: 142px
+    }
+.calibre3 {
+    font-style: italic
+    }
+.calibre4 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre5 {
+    height: 153px;
+    width: 492px
+    }
+.calibre6 {
+    display: block;
+    page-break-after: always
+    }
+.calibre7 {
+    height: 154px;
+    width: 491px
+    }
+.calibre8 {
+    height: 153px;
+    width: 490px
+    }
+.calibre9 {
+    height: 153px;
+    width: 491px
+    }
+.calibre10 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.5em
+    }
+.calibre11 {
+    height: 155px;
+    width: 498px
+    }
+.calibre12 {
+    height: 238px;
+    width: 417px
+    }
+.calibre13 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre14 {
+    height: auto;
+    width: auto
+    }
+.center {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: center;
+    text-indent: 0;
+    widows: 2
+    }
+.center1 {
+    line-height: 1.3em;
+    text-align: center
+    }
+.dedication {
+    display: block;
+    margin-bottom: 2em;
+    margin-top: 5em;
+    text-indent: 0
+    }
+.eb01bodytextlinespace {
+    display: block;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    orphans: 2;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.eb01imprint {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    orphans: 2;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 0;
+    widows: 2
+    }
+.eb01imprintcontainer {
+    display: inline-block;
+    height: 15%;
+    margin-top: 65%;
+    text-align: center;
+    width: 100%
+    }
+.eb02bodytextfullout {
+    display: block;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.eb03bodytextindented {
+    display: block;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.eb03bodytextindented-t {
+    display: block;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.eb03bodytextindented1 {
+    display: block;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.eb04mainhead {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 14%;
+    page-break-after: avoid;
+    page-break-before: always;
+    text-align: center
+    }
+.eb04smallcapsmainhead {
+    -webkit-hyphens: none;
+    display: block;
+    font-size: 1.66667em;
+    font-variant: small-caps;
+    font-weight: normal;
+    hyphens: none;
+    letter-spacing: 0.1em;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: lowercase
+    }
+.eb07smallcapsmediumhead {
+    display: block;
+    font-size: 0.75em;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.eb09largehead {
+    -webkit-hyphens: none;
+    display: block;
+    font-size: 1.41667em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 18%;
+    page-break-after: avoid;
+    page-break-before: always;
+    text-align: center
+    }
+.eb10smallhead {
+    display: block;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.eb10smallhead1 {
+    display: block;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.eb10smallhead2 {
+    display: block;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-after: avoid;
+    text-align: center
+    }
+.eb11smallitalicheadspaced {
+    display: block;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-after: avoid;
+    text-align: center;
+    text-indent: 0
+    }
+.eb13copyrighthead {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0;
+    text-transform: uppercase
+    }
+.eb14copyrighttext {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    orphans: 2;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.eb15contentstext {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.eb15contentstextindent {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.eb20extrafeaturelast {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.eb23listfirst {
+    display: list-item;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-right: 1em;
+    margin-top: 1em;
+    text-align: left
+    }
+.eb24list {
+    display: list-item;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-right: 1em;
+    margin-top: 0;
+    text-align: left
+    }
+.eb25listlast {
+    display: list-item;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    margin-top: 0;
+    text-align: left
+    }
+.ebsup {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.ebsup1 {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.endnote {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    padding-left: 1em;
+    text-align: left;
+    text-indent: -1em;
+    widows: 2
+    }
+.endpagehead {
+    display: block;
+    font-size: 2em;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3%;
+    page-break-after: avoid;
+    page-break-before: always;
+    text-align: center;
+    text-transform: uppercase
+    }
+.endpagelogocontainer {
+    display: inline-block;
+    height: 15%;
+    margin-top: 35%;
+    text-align: center;
+    width: 100%
+    }
+.epubkf {
+    display: block
+    }
+.featureindented {
+    display: block;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.featureindented-1a {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.featureindented1 {
+    display: block;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0;
+    orphans: 2;
+    text-align: left;
+    text-indent: 1em;
+    widows: 2
+    }
+.footnote_page {
+    display: block;
+    page-break-before: always
+    }
+.fsimage {
+    height: 100%;
+    width: auto
+    }
+.fsimagewrap {
+    display: block;
+    height: auto;
+    page-break-before: always;
+    text-align: center;
+    width: 100%
+    }
+.fsimagewrap1 {
+    display: block;
+    height: 100%;
+    text-align: center;
+    width: 100%
+    }
+.hang {
+    display: block;
+    margin-bottom: 1em;
+    margin-top: 1em
+    }
+.hangingindent {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    padding-left: 0;
+    text-align: left;
+    text-indent: -3.4em;
+    widows: 2
+    }
+.hangingindent5-b {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    padding-left: 0;
+    text-align: left;
+    text-indent: -3.4em;
+    widows: 2
+    }
+.hr {
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: block;
+    margin-top: 2%;
+    page-break-after: avoid;
+    page-break-before: avoid;
+    page-break-inside: avoid;
+    width: 80%
+    }
+.hrframe {
+    display: block;
+    font-size: 2em;
+    height: 1%;
+    line-height: 1.2;
+    padding-left: 10%;
+    page-break-after: avoid;
+    page-break-before: avoid;
+    text-align: center;
+    width: 100%
+    }
+.imagewrap {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    width: 100%
+    }
+.imagewrap1 {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    width: 100%
+    }
+.imprint_logo {
+    height: 95px;
+    width: 67px
+    }
+.logocontainer {
+    display: inline-block;
+    height: 5%;
+    margin-bottom: 0;
+    margin-top: 15%;
+    text-align: center;
+    width: 100%
+    }
+.mobi {
+    display: none
+    }
+.none {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.note {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    padding-left: 0;
+    text-align: left;
+    text-indent: 0;
+    widows: 2
+    }
+.penguinlogo {
+    height: 55px;
+    width: 50px
+    }
+.sidebar {
+    background-color: #DEDEDD;
+    display: block;
+    line-height: 1.3em;
+    margin-top: 0;
+    padding-bottom: 0.5em;
+    padding-left: 0;
+    padding-top: 0.5em;
+    text-indent: 0
+    }
+.smallcaps {
+    font-size: 0.75em
+    }
+.smallitalicheadspaced {
+    display: block;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.3em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-after: avoid;
+    text-indent: 0
+    }
+.smalltexthangingindent {
+    display: block;
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    padding-left: 1em;
+    text-align: left;
+    text-indent: -1em;
+    widows: 2
+    }
+.star {
+    display: list-item;
+    list-style-image: url(images/00002.gif);
+    list-style-type: none
+    }
+.strong {
+    font-weight: bold
+    }
+.texthangingindent {
+    display: block;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    padding-left: 1.2em;
+    text-align: left;
+    text-indent: -1.2em;
+    widows: 2
+    }
+

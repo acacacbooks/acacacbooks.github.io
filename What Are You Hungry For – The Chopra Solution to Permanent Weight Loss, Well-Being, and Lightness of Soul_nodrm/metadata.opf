@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7ec4ca49-58ba-4b14-842b-6af841c8a932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68d3b90f-371a-48a9-8182-da5715e9cdd1</dc:identifier>
+        <dc:title>What Are You Hungry For?: The Chopra Solution to Permanent Weight Loss, Well-Being, and Lightness of Soul</dc:title>
+        <dc:creator opf:file-as="Chopra, Deepak" opf:role="aut">Deepak Chopra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-12T05:00:00+00:00</dc:date>
+        <dc:publisher>Potter/TenSpeed/Harmony</dc:publisher>
+        <dc:rights>Copyright © 2013 by Deepak Chopra</dc:rights>
+        <dc:language>en</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

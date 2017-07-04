@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40fb1a51-a1ff-43a9-ad3d-71e91e5c078c</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0339ad3-2dbc-4eaf-9fbe-97ecb676be63</dc:identifier>
+        <dc:title>Swami Vivekananda: Complete Works (Golden Deer Classics)</dc:title>
+        <dc:creator opf:file-as="Vivekananda, Swami" opf:role="aut">Swami Vivekananda</dc:creator>
+        <dc:creator opf:file-as="Vivekananda, Swami" opf:role="aut">Golden Deer Classics</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-21T04:00:00+00:00</dc:date>
+        <dc:publisher>Oregan Publishing</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">e2006511-a3bc-40ab-9049-d7bd2111beb6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45a5fb97-0687-4a83-bd76-06eeabf37c32</dc:identifier>
+        <dc:title>Man 2.0 Engineering the Alpha: A Real World Guide to an Unreal Life: Build More Muscle. Burn More Fat. Have More Sex</dc:title>
+        <dc:creator opf:file-as="Romaniello, John" opf:role="aut">John Romaniello</dc:creator>
+        <dc:creator opf:file-as="Romaniello, John" opf:role="aut">Adam Bornstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-16T04:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:rights>Copyright &amp;#x00A9; 2013 by John Romaniello and Adam Bornstein</dc:rights>
+        <dc:language>en</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
